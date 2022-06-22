@@ -53,3 +53,5 @@ Para exibir os dados dessa tabela, utilize:
  ```
  dotnet run -- Lab List
  ```
+
+ edita
